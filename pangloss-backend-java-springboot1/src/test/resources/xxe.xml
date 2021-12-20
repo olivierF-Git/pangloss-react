@@ -1,0 +1,6 @@
+<!DOCTYPE ItemsSelector [
+        <!ENTITY file SYSTEM "classpath:data.sql">
+        ]>
+<ItemsSelector>
+    <categoryId>&file;</categoryId>
+</ItemsSelector>
